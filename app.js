@@ -12,6 +12,7 @@ function sum(a, b) { //eslint-disable-line
     var mySum = a+b;
     var msg0 = `The sum of ${a} and ${b} is ${mySum}.`;
     return [mySum, msg0];
+
 }
 
 // Here is the test for sum(); uncomment it to run it
